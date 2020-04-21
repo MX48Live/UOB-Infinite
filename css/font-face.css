@@ -1,0 +1,23 @@
+ฃ@font-face {
+    font-family: 'agenda';
+    src: url('../fonts/font_bureau_-_agenda-medium-webfont.eot');
+    src: url('../fonts/font_bureau_-_agenda-medium-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/font_bureau_-_agenda-medium-webfont.woff2') format('woff2'),
+         url('../fonts/font_bureau_-_agenda-medium-webfont.woff') format('woff'),
+         url('../fonts/font_bureau_-_agenda-medium-webfont.ttf') format('truetype'),
+         url('../fonts/font_bureau_-_agenda-medium-webfont.svg#agenda-mediumregular') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'agenda';
+    src: url('../fonts/font_bureau_-_agenda-light-webfont.eot');
+    src: url('../fonts/font_bureau_-_agenda-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/font_bureau_-_agenda-light-webfont.woff2') format('woff2'),
+         url('../fonts/font_bureau_-_agenda-light-webfont.woff') format('woff'),
+         url('../fonts/font_bureau_-_agenda-light-webfont.ttf') format('truetype'),
+         url('../fonts/font_bureau_-_agenda-light-webfont.svg#agenda-lightregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
